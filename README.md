@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my assignment and project are available at [https://github.com/divyaGrvgithub](https://github.com/divyaGrvgithub)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, PYTHON, POSTMAN, MONGODB, GIT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, PYTHON, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
