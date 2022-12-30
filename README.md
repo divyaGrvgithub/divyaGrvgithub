@@ -1,4 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Divyamala Tiwari</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
@@ -96,6 +96,7 @@
     
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyagrvgithub&show_icons=true&locale=en" alt="divyagrvgithub" /></p>
+    
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyagrvgithub&" alt="divyagrvgithub" /></p>
 
