@@ -78,7 +78,7 @@
   </a>
   </a>
   <a href="https://www.redis.com/" target="_blank"> 
-    <img src="https://www.freecodecamp.org/news/content/images/2021/04/image-46.png"
+    <img src="https://www.freecodecamp.org/news/content/images/2021/04/image-25.png"
       alt="Redis"/> 
   </a>
 </p>
