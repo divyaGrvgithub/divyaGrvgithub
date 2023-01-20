@@ -75,7 +75,12 @@
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
-  </a> 
+  </a>
+  </a>
+  <a href="https://www.redis.com/" target="_blank"> 
+    <img src="https://www.freecodecamp.org/news/content/images/2021/04/image-46.png"
+      alt="Redis"/> 
+  </a>
 </p>
  <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
