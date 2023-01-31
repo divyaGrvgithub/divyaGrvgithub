@@ -109,6 +109,6 @@
 
 ![DivyaGrv's GitHub status](https://github-readme-stats.vercel.app/api?username=divyaGrvgithub&show_icons=true&theme=yeblu)
 
-![DivyaGrv's GitHub status](https://github-readme-streak-stats.herokuapp.com/?user=divyaGrvgithub&theme=yeblu)
+![DivyaGrv's GitHub status](https://github-readme-streak-stats.herokuapp.com/?user=divyaGrvgithub&theme=yeblu)  
 
 
