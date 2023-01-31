@@ -89,9 +89,13 @@
   <a href="https://gitlab.com/bindian0509" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
- 
-</div>
-   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyagrvgithub&" alt="divyagrvgithub" /></p>
-</div>
+      
+📊 GitHub Status:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaGrvgithub&layout=compact&theme=yeblu)](https://github.com/divyaGrvgithub/github-readme-stats)
+
+![DivyaGrv's GitHub status](https://github-readme-stats.vercel.app/api?username=divyaGrvgithub&show_icons=true&theme=yeblu)
+
+![DivyaGrv's GitHub status](https://github-readme-streak-stats.herokuapp.com/?user=divyaGrvgithub&theme=yeblu)
+
 
