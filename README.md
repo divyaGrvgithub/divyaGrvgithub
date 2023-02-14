@@ -85,6 +85,17 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a>
+   </a>
+  <a href="https://redis.io" target="_blank">
+    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
+      alt="redis"/>
+  </a>
+  </p>
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
+  </a>
 </p>
  <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
@@ -92,10 +103,10 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/bindian0509" target="_blank">
+  <a href="https://github.com/divyaGrvgithub" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/bindian0509" target="_blank">
+  <a href="https://gitlab.com/divyaGrvgithub" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
       
@@ -106,12 +117,16 @@
 ![DivyaGrv's GitHub status](https://github-readme-stats.vercel.app/api?username=divyaGrvgithub&show_icons=true&theme=yeblu)
 
 ![DivyaGrv's GitHub status](https://github-readme-streak-stats.herokuapp.com/?user=divyaGrvgithub&theme=yeblu) 
+    
+<a href="https://github.com/divyaGrvgithub/divyaGrvgithub">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyaGrvgithub&theme=gruvbox&hide_border=true)](https://github.com/divyaGrvgithub" alt="divyaGrvgithub's GitHub Stats Graph"/>
+</a>
 <br><br>
 <a href="https://github.com/divyaGrvgithub/divyaGrvgithub">
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=divyaGrvgithub&theme=github" alt="divyaGrvgithub's GitHub Contributions Graph"/>
 </a>
 </div>
-
+ 
 ## Credit: [Divyamala Tiwari](https://linktr.ee/divyaGrvgithub)
 
 <img src="https://views.whatilearened.today/views/github/divyaGrvgithub/divyaGrvgithub.svg?cache=remove"/>
