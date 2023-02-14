@@ -105,6 +105,15 @@
 
 ![DivyaGrv's GitHub status](https://github-readme-stats.vercel.app/api?username=divyaGrvgithub&show_icons=true&theme=yeblu)
 
-![DivyaGrv's GitHub status](https://github-readme-streak-stats.herokuapp.com/?user=divyaGrvgithub&theme=yeblu)  
+![DivyaGrv's GitHub status](https://github-readme-streak-stats.herokuapp.com/?user=divyaGrvgithub&theme=yeblu) 
+<br><br>
+<a href="https://github.com/divyaGrvgithub/divyaGrvgithub">
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=divyaGrvgithub&theme=github" alt="divyaGrvgithub's GitHub Contributions Graph"/>
+</a>
+</div>
+
+## Credit: [Divyamala Tiwari](https://linktr.ee/divyaGrvgithub)
+
+<img src="https://views.whatilearened.today/views/github/divyaGrvgithub/divyaGrvgithub.svg?cache=remove"/>
 
 
