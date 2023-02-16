@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 <h5 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️&center=true&size=20">
   </a>
 </h5>
 
