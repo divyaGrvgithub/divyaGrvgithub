@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my assignment and project are available at [https://github.com/divyaGrvgithub](https://github.com/divyaGrvgithub)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT, REDIS, AWS S3**
 
 <h2 align="left"> 🏆 GitHub Trophies:</h2>
 
