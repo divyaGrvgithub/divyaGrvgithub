@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 <h5 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️⭐✨&center=true&size=20">
   </a>
 </h5>
 
@@ -69,7 +69,7 @@
       alt="nodejs"/> 
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
+    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=blue"
       alt="express" />
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
@@ -78,15 +78,16 @@
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-339933.svg?style=for-the-badge&logo=reactdotjs&logoColor=white"
+    <img src="https://img.shields.io/badge/reactjs-339933.svg?style=for-the-badge&logo=reactdotjs&logoColor=Pink"
       alt="React.js"/> 
       </a>
   <a href="https://www.glitch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/glitch-000000.svg?style=for-the-badge&logo=glitch&logoColor=white"
+    <img src="https://img.shields.io/badge/glitch-000000.svg?style=for-the-badge&logo=glitch&logoColor=red"
       alt="glitch" />
   <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=white"
+    <img src="https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=green"
       alt="netlify" />
+      
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="" target="_blank"> 
@@ -127,7 +128,7 @@
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
       
-📊 GitHub Status:
+📊✨GitHub Status:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaGrvgithub&layout=compact&theme=yeblu)](https://github.com/divyaGrvgithub/github-readme-stats)
 
