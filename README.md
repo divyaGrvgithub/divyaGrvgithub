@@ -75,7 +75,18 @@
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
       alt="JWT" />
 </p>
-
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-339933.svg?style=for-the-badge&logo=reactdotjs&logoColor=white"
+      alt="React.js"/> 
+      </a>
+  <a href="https://www.glitch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/glitch-000000.svg?style=for-the-badge&logo=glitch&logoColor=white"
+      alt="glitch" />
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=white"
+      alt="netlify" />
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="" target="_blank"> 
