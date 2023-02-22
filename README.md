@@ -78,7 +78,7 @@
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-339933.svg?style=for-the-badge&logo=reactdotjs&logoColor=Pink"
+    <img src="https://img.shields.io/badge/reactjs-339933.svg?style=for-the-badge&logo=react.js&logoColor=Pink"
       alt="React.js"/> 
       </a>
   <a href="https://www.glitch.org/" target="_blank">
