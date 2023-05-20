@@ -22,13 +22,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vpalve07&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="vpalve07" /></a> </p>
 
-## Coding Skills
+<!-- ## Coding Skills
 
 <p>
   <img src ="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" height="70px"/>
-</p>
+</p>-->
 
-<hr>
+<hr> 
 
 <h3 align="center">Languages</h3>
 <p align="center">
