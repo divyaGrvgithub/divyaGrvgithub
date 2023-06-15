@@ -136,10 +136,10 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyaGrvgithub&theme=gruvbox&hide_border=true)](https://github.com/divyaGrvgithub" alt="divyaGrvgithub's GitHub Stats Graph"/>
 </a>
 <br><br>
-<a href="https://github.com/divyaGrvgithub/divyaGrvgithub">
+<!--<a href="https://github.com/divyaGrvgithub/divyaGrvgithub">
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=divyaGrvgithub&theme=github" alt="divyaGrvgithub's GitHub Contributions Graph"/>
 </a>
-</div>
+</div>-->
  
 ## Credit: [Divyamala Tiwari](https://linktr.ee/divyaGrvgithub)
 
