@@ -146,9 +146,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyaGrvgithub&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+
 
 ## 📊 GitHub Activity
 
@@ -161,20 +159,11 @@
 
 <!-- color=nord_dark -->
 
-<hr>
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 ## 📈 GitHub Contribution Graph
 [![Divyamala Tiwari github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=divyaGrvgithub&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/divyaGrvgithub/github-readme-activity-graph)
 <hr>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
- 
-      
+       
 <!---📊✨GitHub Status:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaGrvgithub&layout=compact&theme=yeblu)](https://github.com/divyaGrvgithub/github-readme-stats)
@@ -195,5 +184,11 @@
 
 ## Credit: [Divyamala Tiwari](https://linktr.ee/divyaGrvgithub)
 
-<img src="https://views.whatilearened.today/views/github/divyaGrvgithub/divyaGrvgithub.svg?cache=remove"/>    
+<img src="https://views.whatilearened.today/views/github/divyaGrvgithub/divyaGrvgithub.svg?cache=remove"/>  
+
+<hr>
+
+<h2 align="center">☺𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈!💖</h2>
+
+<hr>
   
