@@ -141,8 +141,41 @@
   <a href="https://gitlab.com/divyaGrvgithub" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
+
+  <div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyaGrvgithub&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## 📊 GitHub Activity
+
+<hr>
+
+| ![divyaGrvgithub Github Stats](https://github-readme-stats.vercel.app/api?username=divyaGrvgithub&show_icons=true&theme=radical) | ![divyaGrvgithub GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyaGrvgithub&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaGrvgithub&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyaGrvgithub&theme=radical&utcOffset=8) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyaGrvgithub&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyaGrvgithub&theme=2077)
+
+<!-- color=nord_dark -->
+
+<hr>
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## 📈 GitHub Contribution Graph
+[![Divyamala Tiwari github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=divyaGrvgithub&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/divyaGrvgithub/github-readme-activity-graph)
+<hr>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+ 
       
-📊✨GitHub Status:
+<!---📊✨GitHub Status:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaGrvgithub&layout=compact&theme=yeblu)](https://github.com/divyaGrvgithub/github-readme-stats)
 
@@ -159,6 +192,7 @@
 </a>
 </div>-->
  
+
 ## Credit: [Divyamala Tiwari](https://linktr.ee/divyaGrvgithub)
 
 <img src="https://views.whatilearened.today/views/github/divyaGrvgithub/divyaGrvgithub.svg?cache=remove"/>    
