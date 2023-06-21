@@ -19,8 +19,13 @@
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT, REDIS, AWS S3**
 
 <h2 align="left"> 🏆 GitHub Trophies:</h2>
+<hr>
+ 
+<h3 align="center">
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=divyaGrvgithub&theme=onedark&column=11">
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vpalve07&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="vpalve07" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyaGrvgithub&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="divyaGrvgithub" /></a> </p>-->
 
 <!-- ## Coding Skills
 
