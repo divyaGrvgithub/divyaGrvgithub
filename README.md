@@ -112,6 +112,8 @@
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
+  </a>
+  <a
     <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
@@ -143,7 +145,7 @@
 ![DivyaGrv's GitHub status](https://github-readme-streak-stats.herokuapp.com/?user=divyaGrvgithub&theme=yeblu) 
     
 <a href="https://github.com/divyaGrvgithub/divyaGrvgithub">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyaGrvgithub&theme=gruvbox&hide_border=true)](https://github.com/divyaGrvgithub" alt="divyaGrvgithub's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyaGrvgithub&theme=gruvbox&hide_border=true)](https://github.com/divyaGrvgithub" alt="divyaGrvgithub's GitHub Stats Graph"/> 
 </a>
 <br><br>
 <!--<a href="https://github.com/divyaGrvgithub/divyaGrvgithub">
