@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyagrvgithub&label=Profile%20views&color=0e75b6&style=flat" alt="divyagrvgithub" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 Learning Never Stops 🚀
 
 - 👨‍💻 All of my assignment and project are available at [https://github.com/divyaGrvgithub](https://github.com/divyaGrvgithub)
 - 👨‍💻 Check out my personal portfolio : **<a href="https://divyaportfolio-completed--aquamarine-pegasus-fe92fa.netlify.app/" target="_blank">Portfolio</a>**
@@ -40,9 +40,8 @@
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       alt="c++"/>
   </a>
-  <a
+    
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
       alt="python"/> 
@@ -70,7 +69,7 @@
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=blue"
       alt="express" />
-    <a
+  </a>
     <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
     </a>
   <a href="https://expressjs.com" target="_blank">
@@ -89,6 +88,9 @@
   <a href="https://www.netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=green"
       alt="netlify" />
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
       
 <h3 align="center">Database</h3>
 <p align="center">
@@ -108,18 +110,17 @@
   <a href="https://redis.io" target="_blank">
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="redis"/>
-    <a
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  </a>
+      
   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </a>
   </p>
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
-  </a>
-  <a
-    <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
