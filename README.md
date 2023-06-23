@@ -14,9 +14,9 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 👨‍💻 All of my assignment and project are available at [https://github.com/divyaGrvgithub](https://github.com/divyaGrvgithub)
+- 👨‍💻 All of my assignment and project are available at :  **<a href="https://github.com/divyaGrvgithub" target="_blank">divyaGrvgithub</a>** 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://divyaportfolio-completed--teal-kitsune-ae05f5.netlify.app/" target="_blank">Portfolio</a>**
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT, REDIS, AWS S3**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT, REDIS, AWS S3, Data Structure & Algorithm, C++, Reactjs**
 
 <h2 align="left"> 🏆 GitHub Trophies:</h2>
 <hr>
