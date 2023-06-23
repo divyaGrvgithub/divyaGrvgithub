@@ -76,6 +76,7 @@
       alt="express" />
   </a>
     <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
+  <img alt="Server" src="https://img.shields.io/badge/server-%23039BE5.svg?style=for-the-badge&logo=Server"/>
     </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
