@@ -90,10 +90,10 @@
   <a href="https://www.glitch.org/" target="_blank">
     <img src="https://img.shields.io/badge/glitch-000000.svg?style=for-the-badge&logo=glitch&logoColor=red"
       alt="glitch" />
-  <a href="https://www.netlify.com/" target="_blank">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <a href="https://www.netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=green"
       alt="netlify" />
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -143,9 +143,13 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://gitlab.com/divyaGrvgithub" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=Blue"
+      alt="gitlab"/>
+      <a href="https://bitbucket.org/divyagrv-workspace/workspace/overview" target="_blank">
+    <img src="https://img.shields.io/badge/bitbucket-181717.svg?style=for-the-badge&logo=bitbucket&logoColor=red"
+      alt="bitbucket"/>
+      <img alt="Azure DevOps" src="https://img.shields.io/badge/azuredevops-%23039BE5.svg?style=for-the-badge&logo=Azure DevOps"/>
+      
   <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyaGrvgithub&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
