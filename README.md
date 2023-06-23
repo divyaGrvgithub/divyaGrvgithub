@@ -12,11 +12,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyagrvgithub&label=Profile%20views&color=0e75b6&style=flat" alt="divyagrvgithub" /> </p>
 
-- 🌱 Learning Never Stops 🚀
-
-- 👨‍💻 All of my assignment and project are available at :  **<a href="https://github.com/divyaGrvgithub" target="_blank">divyaGrvgithub</a>** 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://divyaportfolio-completed--teal-kitsune-ae05f5.netlify.app/" target="_blank">Portfolio</a>**
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT, REDIS, AWS S3, Data Structure & Algorithm, C++, Reactjs**
+- **🌱 Learning Never Stops 🚀**
+  
+- **👨‍💻 All of my assignment and project are available at :**  **<a href="https://github.com/divyaGrvgithub" target="_blank">divyaGrvgithub</a>** 
+- **👨‍💻 Check out my personal portfolio :** **<a href="https://divyaportfolio-completed--teal-kitsune-ae05f5.netlify.app/" target="_blank">Portfolio</a>**
+- **💬 Ask me about **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT, REDIS, AWS S3, Data Structure & Algorithm, C++, Reactjs**
+- **🎯 2023 Goals: Contribute more to open source projects**
 
 <h2 align="left"> 🏆 GitHub Trophies:</h2>
 <hr>
