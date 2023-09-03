@@ -1,24 +1,29 @@
 ![logo](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
 
-**<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/divyamalatiwari/" target="_blank"> Divyamala Tiwari </a></h1>**
-<h3 align="center">A MERN STACK DEVELOPER</h3>
+**<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/divyamalatiwari/" target="_blank"> 𝐃𝐢𝐯𝐲𝐚𝐦𝐚𝐥𝐚 𝐓𝐢𝐰𝐚𝐫𝐢 </a></h1>**
+<h2 align="center">𝒜 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒲𝑒𝒷 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝐹𝓇𝑜𝓂 𝐼𝓃𝒹𝒾𝒶</h2>
 <h5 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️⭐✨&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐲+𝐭𝐡𝐞𝐫𝐞!...;𝐆𝐫𝐞𝐚𝐭+𝐭𝐨+𝐡𝐚𝐯𝐞+𝐲𝐨𝐮+𝐡𝐞𝐫𝐞!❤️⭐✨&center=true&size=20">
   </a>
+  <p align="center">
+        <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+        <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
+        &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
+    </p>
 </h5>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyagrvgithub&label=Profile%20views&color=0e75b6&style=flat" alt="divyagrvgithub" /> </p>
 
-- **🌱 Learning Never Stops 🚀**
+- **🌱𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐍𝐞𝐯𝐞𝐫 𝐒𝐭𝐨𝐩𝐬 🚀**
   
-- **👨‍💻 All of my assignment and project are available at :**  **<a href="https://github.com/divyaGrvgithub" target="_blank">divyaGrvgithub</a>** 
-- **👨‍💻 Check out my personal portfolio :** **<a href="https://divyaportfolio-completed--teal-kitsune-ae05f5.netlify.app/" target="_blank">Portfolio</a>**
-- **💬 Ask me about** **HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT, REDIS, AWS S3, Data Structure & Algorithm, C++, Reactjs**
-- **🎯 2023 Goals: Contribute more to open source projects**
+- **👨‍💻𝐀𝐥𝐥 𝐨𝐟 𝐦𝐲 𝐚𝐬𝐬𝐢𝐠𝐧𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐚𝐫𝐞 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐚𝐭 :**  **<a href="https://github.com/divyaGrvgithub" target="_blank">𝐝𝐢𝐯𝐲𝐚𝐆𝐫𝐯𝐠𝐢𝐭𝐡𝐮𝐛</a>** 
+- **👨‍💻 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐦𝐲 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨:** **<a href="https://divyaportfolio-completed--teal-kitsune-ae05f5.netlify.app/" target="_blank">𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨</a>**
+- **💬 Ask me about HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT, REDIS, AWS S3, Data Structure & Algorithm, C++, Reactjs**
+- **🎯𝟐𝟎𝟐𝟑 𝐆𝐨𝐚𝐥𝐬: 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐦𝐨𝐫𝐞 𝐭𝐨 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬**
 
-<h2 align="left"> 🏆 GitHub Trophies:</h2>
+<h2 align="left"> 🏆𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬:</h2>
 <hr>
  
 <h3 align="center">
@@ -35,7 +40,7 @@
 
 <hr> 
 
-<h3 align="center">Languages</h3>
+<h3 align="center">𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
@@ -65,7 +70,7 @@
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">𝐁𝐚𝐜𝐤𝐞𝐧𝐝</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -82,7 +87,7 @@
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
       alt="JWT" />
 </p>
-<h3 align="center">Frontend</h3>
+<h3 align="center">𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-339933.svg?style=for-the-badge&logo=reactdotjs&logoColor=Pink"
@@ -100,7 +105,7 @@
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
       
-<h3 align="center">Database</h3>
+<h3 align="center">𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞</h3>
 <p align="center">
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
@@ -124,7 +129,7 @@
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </a>
   </p>
-<h3 align="center">Cloud & Hosting:</h3>
+<h3 align="center">𝐂𝐥𝐨𝐮𝐝 & 𝐇𝐨𝐬𝐭𝐢𝐧𝐠:</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
@@ -134,7 +139,7 @@
   
 </p>
 
- <h3 align="center">Version Control & CI/CD</h3>
+ <h3 align="center">𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 & 𝐂𝐈/𝐂𝐃</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -150,6 +155,12 @@
     <img src="https://img.shields.io/badge/bitbucket-181717.svg?style=for-the-badge&logo=bitbucket&logoColor=red"
       alt="bitbucket"/>
       <img alt="Azure DevOps" src="https://img.shields.io/badge/azuredevops-%23039BE5.svg?style=for-the-badge&logo=Azure DevOps"/>
+<div>
+      <p align="center">
+    <div align="center">
+        <img
+            src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=7&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues,Organizations,Stars">
+    </div> 
       
   <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyaGrvgithub&theme=2077"  display=block width=100% height=auto  alt="1" >
@@ -189,9 +200,21 @@
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=divyaGrvgithub&theme=github" alt="divyaGrvgithub's GitHub Contributions Graph"/>
 </a>
 </div>-->
- 
 
-## Credit: [Divyamala Tiwari](https://linktr.ee/divyaGrvgithub)
+  <p>
+    <div>
+    </p>
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+    <p>
+        <h2 align="center"><a href="https://github.com/divyaGrvgithub/?tab=repositories"></a></h2>
+        </div>
+        <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
+            <p align="center">💖 Visited Counts 💖<br><br> <img
+                    src="https://profile-counter.glitch.me/kritical0613/count.svg" />
+        </a>
+    </p>
+
+## Credit: [🅳🅸🆅🆈🅰🅼🅰🅻🅰 🆃🅸🆆🅰🆁🅸](https://linktr.ee/divyaGrvgithub)
 
 <img src="https://views.whatilearened.today/views/github/divyaGrvgithub/divyaGrvgithub.svg?cache=remove"/>  
 
