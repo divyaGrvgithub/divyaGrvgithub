@@ -12,7 +12,7 @@
         &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
     </p>
 </h5>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+<img align="right" alt="coding" width="280" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyagrvgithub&label=Profile%20views&color=0e75b6&style=flat" alt="divyagrvgithub" /> </p>
 
@@ -22,6 +22,7 @@
 - **👨‍💻 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐦𝐲 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨:** **<a href="https://divyaportfolio-completed--chimerical-moonbeam-0aee2f.netlify.app/" target="_blank">𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨</a>**
 - **💬 Ask me about HTML, CSS, JAVASCRIPT, POSTMAN, NODE.JS, EXPRESS, MONGODB, GIT, REDIS, AWS S3, Data Structure & Algorithm, C++, Reactjs**
 - 🎯𝟐𝟎𝟐𝟑 𝐆𝐨𝐚𝐥𝐬: 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐦𝐨𝐫𝐞 𝐭𝐨 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+
 
 <h2 align="left"> 🏆𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬:</h2>
 <hr>
