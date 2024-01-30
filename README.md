@@ -1,4 +1,4 @@
-![logo](https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-14-1.webp)
+![logo](https://resumespice.com/wp-content/uploads/2021/03/13.png)
 
 **<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/divyamalatiwari/" target="_blank"> 𝐃𝐢𝐯𝐲𝐚𝐦𝐚𝐥𝐚 𝐓𝐢𝐰𝐚𝐫𝐢 </a></h1>**
 <h2 align="center">𝒜 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒲𝑒𝒷 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝐹𝓇𝑜𝓂 𝐼𝓃𝒹𝒾𝒶</h2>
